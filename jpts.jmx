@@ -78,7 +78,7 @@
         </RandomVariableConfig>
         <hashTree/>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="usercredentials" enabled="true">
-          <stringProp name="filename">D:/PT_TOOLS/grafana and influx_db/JPERSTORE_WorkingScript/User_Cr.csv</stringProp>
+          <stringProp name="filename">User_Cr.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames">PR_username,PR_password</stringProp>
           <boolProp name="ignoreFirstLine">true</boolProp>
